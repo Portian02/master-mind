@@ -1,3 +1,6 @@
+require "colorize"
+
+
 class BoardGame 
     attr_accessor :board
 
